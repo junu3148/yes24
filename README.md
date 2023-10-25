@@ -6,7 +6,7 @@
 
 
 ## 프로젝트 소개
-##### 상세 포트폴리오 : [notion 포트폴리오](https://www.notion.so/24-4b3785a9aca9487f9afddae5cbbe62e8)
+##### 상세 포트폴리오 : [notion 포트폴리오]([https://www.notion.so/24-4b3785a9aca9487f9afddae5cbbe62e8](https://evening-cinnamon-d45.notion.site/24-4b3785a9aca9487f9afddae5cbbe62e8))
 티켓 예매 및 회원간 티켓 양도 서비스
 
 <br>
