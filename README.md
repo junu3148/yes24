@@ -1,12 +1,12 @@
 # Ticket24
 
-![image]([https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa79f3d56-9085-416b-a60a-56e2ee8e2389%2F%25EB%25A9%2594%25EC%259D%25B8.png?table=block&id=4b3785a9-aca9-487f-9afd-dae5cbbe62e8&spaceId=a8616105-5508-4c8d-93f9-9e47a410cd89&width=2000&userId=f73d4ca6-c265-4f94-8d39-cd6c6399751c&cache=v2](https://evening-cinnamon-d45.notion.site/image/htt…c8d-93f9-9e47a410cd89&width=2000&userId=&cache=v2))
+![image](https://evening-cinnamon-d45.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa79f3d56-9085-416b-a60a-56e2ee8e2389%2F%25EB%25A9%2594%25EC%259D%25B8.png?table=block&id=a1c8c947-c819-4331-bebd-7e11ead37a68&spaceId=a8616105-5508-4c8d-93f9-9e47a410cd89&width=2000&userId=&cache=v2)
 
 
 
 
 ## 프로젝트 소개
-##### 상세 포트폴리오 : [notion 포트폴리오]([https://evening-cinnamon-d45.notion.site/24-4b3785a9aca9487f9afddae5cbbe62e8](https://evening-cinnamon-d45.notion.site/24-a1c8c947c8194331bebd7e11ead37a68))
+##### 상세 포트폴리오 : [notion 포트폴리오](https://evening-cinnamon-d45.notion.site/24-a1c8c947c8194331bebd7e11ead37a68?pvs=4)
 티켓 예매 및 회원간 티켓 양도 서비스
 
 <br>
